@@ -180,4 +180,3 @@ Customer-Insights-Sales-Analytics/
 * Which products generate the highest revenue?
 * Which customers contribute the most revenue?
 * What patterns and outliers exist in the transaction data?
-
