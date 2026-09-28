@@ -38,25 +38,7 @@ The dataset contains transaction-level information from an online retail store b
 * `CustomerID` — Customer identifier
 * `Country` — Customer's country
 
----
 
-## 🔄 Project Workflow
-
-```text
-Raw Dataset
-     ↓
-Data Cleaning
-     ↓
-Exploratory Data Analysis
-     ↓
-Feature Engineering
-     ↓
-Customer & Sales Analysis
-     ↓
-Excel Analysis
-     ↓
-Power BI Dashboard
-```
 
 ---
 
@@ -150,33 +132,4 @@ The final dashboard contains:
 
 ---
 
-## 📁 Project Structure
 
-```text
-Customer-Insights-Sales-Analytics/
-│
-├── customer_insights_analysis.ipynb
-├── README.md
-│
-├── data/
-│   └── online_retail_clean.csv
-│
-├── excel/
-│   └── customer_sales_analysis.xlsx
-│
-└── powerbi/
-    └── customer_insights_dashboard.pbix
-```
-
----
-
-## 🎯 Business Questions
-
-* What is the total revenue generated?
-* How many unique customers placed orders?
-* What is the average order value?
-* How does revenue change over time?
-* Which countries generate the highest revenue?
-* Which products generate the highest revenue?
-* Which customers contribute the most revenue?
-* What patterns and outliers exist in the transaction data?
